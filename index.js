@@ -1,1 +1,1 @@
-qweqwasd dqwe qw asd
+var lol = 'lol'
