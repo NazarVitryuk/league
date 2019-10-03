@@ -1,2 +1,1 @@
-var lol = 'lol'
-var qwe  = 'qwe'
+var champions = ['Garen', 'Aaatrox', 'Ekko']
