@@ -1,1 +1,1 @@
-var champions = ['Garen', 'Aaatrox', 'Ekko']
+var champions = ['Garen', 'Aaatrox', 'Ekko', 'Elise'];
